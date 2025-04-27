@@ -48,14 +48,14 @@ It includes an Admin Dashboard, user authentication with Gmail, and payment inte
 ![Home Page](screenshots/1.png)
 
 ### 🖥 Registration
-![registration](./screenshots/2.jpg)
+![registration](screenshots/2.jpg)
 ### 🖥 Login
-![Login](./screenshots/3.jpg)
+![Login](screenshots/3.jpg)
 
 ### 🛒 Cart Page
 ![Cart Page](screenshots/4.png)
 ###  Checkout
-![Checkout](./screenshots/5.jpg)
+![Checkout](screenshots/5.jpg)
 
 ### 📊 Admin Dashboard
 ![Admin Dashboard](screenshots/6.png)
