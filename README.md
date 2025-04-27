@@ -57,7 +57,7 @@ It includes an Admin Dashboard, user authentication with Gmail, and payment inte
 ![Cart Page](screenshots/4.png)
 
 ###  Checkout
-![Checkout](screenshots/5.jpg)
+![Checkout](screenshots/5.png)
 
 ### 📊 Admin Dashboard
 ![Admin Dashboard](screenshots/6.png)
