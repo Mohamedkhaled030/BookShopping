@@ -49,11 +49,13 @@ It includes an Admin Dashboard, user authentication with Gmail, and payment inte
 
 ### 🖥 Registration
 ![registration](screenshots/2.jpg)
+
 ### 🖥 Login
 ![Login](screenshots/3.jpg)
 
 ### 🛒 Cart Page
 ![Cart Page](screenshots/4.png)
+
 ###  Checkout
 ![Checkout](screenshots/5.jpg)
 
@@ -62,13 +64,16 @@ It includes an Admin Dashboard, user authentication with Gmail, and payment inte
 
 ### 📊 Category
 ![Category](screenshots/7.png)
+
 ### 📊 Stock
 ![Stock](screenshots/8.png)
+
 ### 📊 AddBook
 ![AddBook](screenshots/9.png)
 
 ###  Top Seling
 ![TopSeling](screenshots/10.jpg)
+
 ### 📊 OrdersList
 ![orders](screenshots/11.png)
 
